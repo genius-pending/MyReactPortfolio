@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name": "Shivey Singh",
+    "occupation": "FullStack Developer",
+    "description": "and Software Engineer I like dabbling in various parts of FullStack development and like to learn about new technologies",
+    "image": "shivey.jpg",
+    "bio": "I am currently a student at the university of Birmingham fullstack coding bootcamp. I enjoy learning Full Stack Development, currently diving deeper into React.Js. I believe that to be successful in life, one needs to be obsessive with the life they want and keep working towards it. I learnt how to code so I could develop websites and software for people and businesses.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "shivey_khangura@hotmail.com",
+    "phone": "+4407841907098",
+    "address": {
+      "street": "",
+      "city": "Birmingham",
+      "state": "UK",
+      "zip": "B706EQ"
+    },
+    "website": "http://www.shiveysingh.co.uk",
+    "resumedownload": "https://drive.google.com/file/d/1Erwkvt7-MhF_w9AW2BPceswPsJ0Zu1Rp/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Shivey.Singh.Da.Knockout.King",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shiveysingh/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shivey187/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/genius-pending",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Please see the technology I use below",
+    "education": [
+      {
+        "school": "University of Birmingham",
+        "degree": "Fullstack coding bootcamp",
+        "graduated": "March 2021",
+        "description": "Graduated with A+"
+      }
+    ],
+    "work": [
+      {
+        "company": "FreeLancer",
+        "title": "FullStack Developer",
+        "years": "Dec 2020 - Present",
+        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
+      },
+      {
+        "company": "Rac",
+        "title": "Customer Services",
+        "years": "July 2020 - Present",
+        "description": "Helping businesses showing their best selves to clients."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Best Of The Rest",
+        "category": "My first ever project using frontend tech",
+        "image": "screenshot 4.jpg",
+        "url": " https://genius-pending.github.io/BestOfTheRest/",
+        "git": "https://github.com/genius-pending/BestOfTheRest"
+      },
+      {
+        "title": "My Master Mind Quiz",
+        "category": "A front end quiz created using javascript",
+        "image": "screenshot.jpg",
+        "url": "https://genius-pending.github.io/MyFullStackMasterMindQuiz/",
+        "git": "https://github.com/genius-pending/MyFullStackMasterMindQuiz"
+      },
+      {
+        "title": "Travel Tracker",
+        "category": "My first ever project created using backend tech",
+        "image": "screenshot 2.jpg",
+        "url": "https://travel-tracker-2021.herokuapp.com/",
+        "git": "https://github.com/genius-pending/TravelTracker"
+      },
+      {
+        "title": "My Daily Planner",
+        "category": "Daily organiser created using javascript",
+        "image": "screenshot 3.jpg",
+        "url": "https://genius-pending.github.io/MyDailyPlanner/",
+        "git": "https://github.com/genius-pending/MyDailyPlanner"
+      },
+      {
+        "title": "Clock House",
+        "category": "Website created for a freinds business",
+        "image": "screenshot 7.jpg",
+        "url": "https://github.com/genius-pending/Clockhouse",
+        "git": "https://github.com/genius-pending/Clockhouse"
+      },
+      {
+        "title": "My React Employee Directory",
+        "category": "My first react.js application ",
+        "image": "screenshot 1.jpg",
+        "url": "https://genius-pending.github.io/MyReactEmployeeDirectory/ ",
+        "git": "https://github.com/genius-pending/MyReactEmployeeDirectory"
+      },
+      {
+        "title": "My Budget Tracker",
+        "category": "A project using service worker for offline functionality",
+        "image": "screenshot 6.jpg",
+        "url": " https://morning-plains-74228.herokuapp.com/",
+        "git": "https://github.com/genius-pending/MyBudgetTracker"
+      },
+      {
+        "title": "My Burger Menu Application",
+        "category": "Project using MySql and node express",
+        "image": "screenshot 5.jpg",
+        "url": "https://murmuring-river-91418.herokuapp.com/",
+        "git": "https://github.com/genius-pending/MyAmazingBurgerApp"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "There are no limits to what you can accomplish, except the limits you place on your own thinking.",
+        "user": "Brian Tracy."
+      },
+      {
+        "text": " Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principles which direct them.",
+        "user": "Napoleon Bonaparte"
+      }
+    ]
+  }
+}
