@@ -27,3 +27,9 @@ I contributed to this with help from react documentation and https://github.com/
 no questions.
 ## genius-pending | shivey_khangura@hotmail.com
 ## ![img](https://avatars.githubusercontent.com/u/67982777?v=4)
+
+![readme1](https://user-images.githubusercontent.com/67982777/109701288-c1ad5e80-7b8a-11eb-9deb-a7557cfe6bc9.png)
+
+![readme2](https://user-images.githubusercontent.com/67982777/109701307-c4a84f00-7b8a-11eb-9ea7-40dceb1fc818.png)
+
+![readme3](https://user-images.githubusercontent.com/67982777/109701316-c6721280-7b8a-11eb-9ab9-9b0e6e5853fb.png)
